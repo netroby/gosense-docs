@@ -8,7 +8,7 @@ Document new site: https://gosense.netroby.com
 
 Gosense is a blog web app powered by golang, see demo : https://www.netroby.com
 
-Using SQLite as database to storage data. Using Amazon S3 to handle file uploads.
+Using SQLite as database to storage data. [If you like, we Using Amazon S3 to handle file uploads.]
 
 ## Join us
 
