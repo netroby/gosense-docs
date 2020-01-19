@@ -14,9 +14,9 @@ Matrix chat
 
 [https://matrix.to/#/+yskm:matrix.org](https://matrix.to/#/+yskm:matrix.org)
 
-## Requirement 
+## 需求
 
-1. Linux or Windows server, x64 good, x86 also work
+1. Linux，Windows，MacOSX x86或者x64
 
 
 ## Feature

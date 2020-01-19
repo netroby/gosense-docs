@@ -1,3 +1,3 @@
-# About
+# 关于
 
-Gosense is written with golang, by netroby
+Gosense 是一个用golang写的博客系统， 作者是 netroby
