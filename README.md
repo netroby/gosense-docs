@@ -1,14 +1,10 @@
 # GoSense
 
-[![Join the chat at https://gitter.im/netroby/gosense](https://badges.gitter.im/netroby/gosense.svg)](https://gitter.im/netroby/gosense?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+文档站点: https://gosense.netroby.com
 
-[![Build Status](https://travis-ci.org/netroby/gosense.svg?branch=master)](https://travis-ci.org/netroby/gosense)
+Gosense 是一个用golang编写的 博客 软件, 示例站点 : https://www.netroby.com
 
-Document new site: https://gosense.netroby.com
-
-Gosense is a blog web app powered by golang, see demo : https://www.netroby.com
-
-Using SQLite as database to storage data. [If you like, we Using Amazon S3 to handle file uploads.]
+用sqlite存储数据. [如果有需要，我们用 Amazon S3 存储文件上传.]
 
 ## Join us
 
