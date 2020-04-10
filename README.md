@@ -6,13 +6,23 @@ Gosense 是一个用golang编写的 博客 软件, 示例站点 : https://www.ne
 
 用sqlite存储数据. [如果有需要，我们用 Amazon S3 存储文件上传.]
 
-## Join us
+## 加入我们
 
-Matrix chat 
+### Telegram Channel (电报频道)
 
-![https://matrix.to/#/+yskm:matrix.org](https://yskm.dev/matrix.png)
 
-[https://matrix.to/#/+yskm:matrix.org](https://matrix.to/#/+yskm:matrix.org)
+[https://t.me/gosensechan](https://t.me/gosensechan)
+
+
+
+### 贡献文档
+
+
+如果您想和我们一起，改善文档，可以订阅仓库
+
+[https://github.com/netroby/gosense-docs](https://github.com/netroby/gosense-docs)
+
+不需要掌握编程，只需要简单 文档写作知识，了解基础的Markdown 语法就可以加入进来。
 
 ## 需求
 
