@@ -13,6 +13,12 @@ Gosense 是一个用golang编写的 博客 软件, 示例站点 : https://www.ne
 
 [https://t.me/gosensechan](https://t.me/gosensechan)
 
+### Telegram Group (电报群组)
+
+
+[https://t.me/gosenser](https://t.me/gosenser)
+
+
 
 
 ### 贡献文档
