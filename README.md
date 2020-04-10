@@ -49,6 +49,7 @@ You need golang and libc-dev, for ubuntu ,you may want install it via `apt-get i
 
 ```
 cd gosense
+go get -u github.com/valyala/quicktemplate/qtc
 go generate
 cp config.toml.dist vol/config.toml
 go run -v .
